@@ -1,0 +1,9 @@
+C:\Users\Aluno\Desktop\prjJogoForca\JogoForca\prjJogoForca\bin\Debug\prjJogoForca.exe.config
+C:\Users\Aluno\Desktop\prjJogoForca\JogoForca\prjJogoForca\bin\Debug\prjJogoForca.exe
+C:\Users\Aluno\Desktop\prjJogoForca\JogoForca\prjJogoForca\bin\Debug\prjJogoForca.pdb
+C:\Users\Aluno\Desktop\prjJogoForca\JogoForca\prjJogoForca\obj\Debug\prjJogoForca.Form1.resources
+C:\Users\Aluno\Desktop\prjJogoForca\JogoForca\prjJogoForca\obj\Debug\prjJogoForca.Properties.Resources.resources
+C:\Users\Aluno\Desktop\prjJogoForca\JogoForca\prjJogoForca\obj\Debug\prjJogoForca.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\prjJogoForca\JogoForca\prjJogoForca\obj\Debug\prjJogoForca.exe
+C:\Users\Aluno\Desktop\prjJogoForca\JogoForca\prjJogoForca\obj\Debug\prjJogoForca.pdb
+C:\Users\Aluno\Desktop\prjJogoForca\JogoForca\prjJogoForca\obj\Debug\prjJogoForca.csprojResolveAssemblyReference.cache
